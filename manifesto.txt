@@ -1,0 +1,8 @@
+
+Open Source Manifesto
+----------------------
+Date: Mon Mar 30 20:42:49 IST 2026
+
+I believe in open source because tools like Linux show how powerful shared knowledge can be.
+To me, freedom means Choice, and it should be reflected in the software we use.
+If given a chance, I would build Learning platform and share it freely with others.
