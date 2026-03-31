@@ -1,10 +1,10 @@
-# OSS-Project-VITYARTHI
+
 
 # Open Source Audit Project
 
 ## Student Details
-Name: [PRASHANT KAUNDAL]  
-Roll Number: [24BCY10230]  
+Name: PRASHANT KAUNDAL  
+Roll Number: 24BCY10230 
 
 ## Chosen Software
 Linux Kernel
